@@ -1,0 +1,12 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "simple graphql app",
+  "main": "index.js",
+  "repository": "https://github.com/kromate/graphql",
+  "author": "Anthony Akpan <52849936+kromate@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
